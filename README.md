@@ -2,7 +2,7 @@
 
 **Mobile Solution Architect · iOS Tech Lead · AI-driven SDLC**
 
-I work between the client brief and the codebase: turning requirements into architecture, estimates and a delivery plan, then shipping it. 11+ years in iOS, the last ~5 as architect, across e-commerce, fintech/insurance, health, media and on-device ML.
+I work between the client brief and the codebase: turning requirements into architecture, estimates and a delivery plan, then shipping it. 12+ years in iOS, the last ~5 as architect, across e-commerce, fintech/insurance, health, media and on-device ML.
 
 ### Stack
 - **Apple:** Swift (incl. Swift 6), SwiftUI, UIKit, Combine, Swift Concurrency; iOS, macOS, tvOS, visionOS
