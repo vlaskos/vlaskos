@@ -1,5 +1,5 @@
 ### Selected work
-- [**esdlc**](https://github.com/vlaskos/esdlc) — AI-driven SDLC harness
+- [**app-factory**](https://github.com/vlaskos/app-factory) — AI-driven SDLC harness
 - [**SampleVisionOS**](https://github.com/vlaskos/SampleVisionOS) — spatial UI with SwiftUI & RealityKit on visionOS
 - [**KMM_Sample**](https://github.com/vlaskos/KMM_Sample) — Kotlin Multiplatform shared core (ktor, coroutines, Realm cache) consumed by iOS (SwiftUI) and Android (Compose)
 - [**swiftUI-MVVMC**](https://github.com/vlaskos/swiftUI-MVVMC) — SwiftUI app with the MVVM-Coordinator pattern
