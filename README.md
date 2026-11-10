@@ -12,6 +12,6 @@
 ### Architecture research
 As iOS Tech Lead at CHI Software I led the team's iOS architecture research — pattern references (MVP-C, MVVM-C), micro-app architecture and engineering style guides: [chisw-ios](https://github.com/chisw-ios).
 
-You can check my [CV](https://github.com/vlaskos/cv/releases) or 📫 [LinkedIn](https://www.linkedin.com/in/vlaskos/)
+You can check my [CV](https://github.com/vlaskos/cv/releases) or [LinkedIn](https://www.linkedin.com/in/vlaskos/)
 
 
