@@ -11,6 +11,4 @@
 - [**brief-to-architecture**](https://github.com/vlaskos/brief-to-architecture) — Claude skill that turns a raw brief into an architect-grade analysis of architecturally significant requirements (ISO/IEC 25010)
 - [**architecture-documentation-skill**](https://github.com/vlaskos/architecture-documentation-skill) — Claude skill for producing and reviewing architecture documentation (ISO/IEC/IEEE 42010, C4, 4+1, arc42, ADRs)
 
-You can check my [CV](https://github.com/vlaskos/cv/releases) out, if you want ⚡
-
-📫 [LinkedIn](https://www.linkedin.com/in/vlaskos/)
+You can check my [CV](https://github.com/vlaskos/cv/releases) or 📫 [LinkedIn](https://www.linkedin.com/in/vlaskos/)
