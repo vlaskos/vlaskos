@@ -1,3 +1,7 @@
+### Apps
+- [**Dictra**](https://vlaskos.github.io/dictra-site/) - on-device voice keyboard for iOS with live translation. Coming soon
+- [**CityBase**](https://apps.apple.com/ua/app/citybase/id1193629514) - iOS app for renting property directly from owners
+
 ### Selected work
 - [**app-factory**](https://github.com/vlaskos/app-factory) - AI pipeline from a client idea to a native iOS app, two human approvals
 - [**KMP_Sample**](https://github.com/vlaskos/KMM_Sample) - Kotlin Multiplatform shared core (ktor, coroutines, Realm cache) consumed by iOS (SwiftUI) and Android (Compose)
