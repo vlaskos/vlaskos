@@ -3,7 +3,7 @@
 - [**CityBase**](https://apps.apple.com/ua/app/citybase/id1193629514) - iOS app for renting property directly from owners.
 
 ### Selected work
-- [**app-factory**](https://github.com/vlaskos/app-factory) - spec-driven AI pipeline AI pipeline from a client idea to a native iOS app.
+- [**app-factory**](https://github.com/vlaskos/app-factory) - spec-driven AI pipeline from a client idea to a native iOS app.
 - [**RN_Sample**](https://github.com/vlaskos/RN_Sample) - React Native (Expo, New Architecture) expense tracker.
 - [**KMP_Sample**](https://github.com/vlaskos/KMM_Sample) - Kotlin Multiplatform shared core consumed by iOS and Android.
 - [**swiftUI-MVVMC**](https://github.com/vlaskos/swiftUI-MVVMC) - SwiftUI app with the MVVM-Coordinator pattern.
