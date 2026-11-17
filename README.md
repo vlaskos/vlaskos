@@ -10,9 +10,9 @@
 - [**SwiftUI-Test-MVVM-Architecture**](https://github.com/vlaskos/SwiftUI-Test-MVVM-Architecture) - MVVM reference app with unit and UI tests.
 - [**MVP-C-Architecture**](https://github.com/chisw-ios/MVP-C-Architecture) - MVP-Coordinator reference architecture for iOS.
 ### Skills & Tools
+- [**lifeos**](https://github.com/vlaskos/lifeos) - Notion + Claude AI-assisted dashboard for plans, goals, streams and ideas.
 - [**brief-to-architecture**](https://github.com/vlaskos/brief-to-architecture) - Claude skill: brief, RFP or call notes in, testable requirements, priorities and contradictions out.
 - [**architecture-documentation-skill**](https://github.com/vlaskos/architecture-documentation-skill) - Claude skill that writes and reviews architecture docs: C4, 4+1, ADRs.
-- [**lifeos**](https://github.com/vlaskos/lifeos) - Notion + Claude AI-assisted dashboard for plans, goals, streams and ideas.
 
 ### Architecture research
 As iOS Tech Lead at CHI Software I led the team's iOS architecture research: pattern references (MVP-C, MVVM-C), micro-app architecture and style guides. It lives in [chisw-ios](https://github.com/chisw-ios).
