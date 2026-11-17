@@ -4,7 +4,7 @@
 
 ### Selected work
 - [**app-factory**](https://github.com/vlaskos/app-factory) - AI pipeline from a client idea to a native iOS app, two human approvals
-- [**KMP_Sample**](https://github.com/vlaskos/KMM_Sample) - Kotlin Multiplatform shared core (ktor, coroutines, Realm cache) consumed by iOS (SwiftUI) and Android (Compose)
+- [**KMP_Sample**](https://github.com/vlaskos/KMM_Sample) - Kotlin Multiplatform shared core consumed by iOS and Android
 - [**RN_Sample**](https://github.com/vlaskos/RN_Sample) - React Native (Expo, New Architecture) expense tracker.
 - [**swiftUI-MVVMC**](https://github.com/vlaskos/swiftUI-MVVMC) - SwiftUI app with the MVVM-Coordinator pattern
 - [**SwiftUI-Test-MVVM-Architecture**](https://github.com/vlaskos/SwiftUI-Test-MVVM-Architecture) - MVVM reference app with unit and UI tests
