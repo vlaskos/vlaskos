@@ -15,7 +15,6 @@
 - [**lifeos**](https://github.com/vlaskos/lifeos) - Notion + Claude AI-assisted dashboard for plans, goals, streams and ideas.
 
 ### Architecture research
-As iOS Tech Lead at CHI Software I led the team's iOS architecture research: 
-pattern references (MVP-C, MVVM-C), micro-app architecture and style guides. It lives in [chisw-ios](https://github.com/chisw-ios).
+As iOS Tech Lead at CHI Software I led the team's iOS architecture research: \npattern references (MVP-C, MVVM-C), micro-app architecture and style guides. It lives in [chisw-ios](https://github.com/chisw-ios).
 
 My [CV](https://github.com/vlaskos/cv/releases) and [LinkedIn](https://www.linkedin.com/in/vlaskos/).
